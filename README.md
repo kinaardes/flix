@@ -14,7 +14,7 @@
 ### App Walkthough GIF
 
 
-<img src="http://g.recordit.co/7QVCL3kAPc" width=250><br>
+<img src="http://recordit.co/7QVCL3kAPc" width=250><br>
 
 ### Notes
 Pretty Straight forward everything went well.
